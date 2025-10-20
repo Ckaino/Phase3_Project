@@ -15,17 +15,11 @@ The goal is to develop a classification model that predicts whether a customer w
 This model will:
 
 1. Identify the most influential drivers of churn.
-
 2. Predict high-risk customers early.
-
 3. Support data-driven retention strategies.
-
 # Scope and Evaluation
-
 The analysis includes:
-
 1. Exploratory Data Analysis (EDA).
-
 2. Feature engineering and preprocessing.
 
 3. Model training using classification algorithms.
